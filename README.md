@@ -9,12 +9,15 @@ This github repository contains the ZIP file to connect to our own repositroy.
 Download the latest version of the plugin.
 
 Go into Settings,
+
 ![](https://raw.githubusercontent.com/indiankodi/DEMO-IMAGES/master/01.png)
 
 Now into Addons,
+
 ![](https://raw.githubusercontent.com/indiankodi/DEMO-IMAGES/master/02.png)
 
 Choose "Install from ZIP",
+
 ![](https://raw.githubusercontent.com/indiankodi/DEMO-IMAGES/master/02.png)
 
 Choose the ZIP file.
