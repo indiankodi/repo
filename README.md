@@ -2,7 +2,7 @@
 A repository full of the best customized existing and brand new plugins for the best Kodi experience for Indians!
 
 #Repository
-This github repository contains the ZIP file to connect to our own repositroy.
+This github repository contains the ZIP file to connect to our own repository.
 
 #How to use this plugin?
 
